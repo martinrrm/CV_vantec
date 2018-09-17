@@ -6,4 +6,8 @@ http://adventuresinmachinelearning.com/neural-networks-tutorial/#the-feed-forwar
 
 https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/
 
+Tesseract and OpenCV
+
+https://github.com/martinrrm/CV_vantec/blob/master/README.md
+
 ------------------------------------------------------------------------------------------------------------------------------
