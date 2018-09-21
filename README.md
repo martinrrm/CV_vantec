@@ -1,5 +1,6 @@
 # CV_vantec
 Avances en CV
+------------------------------------------------------------------------------------------------------------------------------
 Lunes 17 Septiembre 2018
 
 http://adventuresinmachinelearning.com/neural-networks-tutorial/#the-feed-forward-pass
